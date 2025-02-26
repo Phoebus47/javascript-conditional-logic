@@ -16,4 +16,5 @@ switch (lightBulbStatus) {
     break;
   default:
     console.log("Please choose the correct input (On/Off/Broken)");
+    break;
 }
